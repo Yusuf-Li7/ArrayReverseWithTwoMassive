@@ -1,4 +1,4 @@
-;âàðèàíò 10
+;variant 10
 format PE console
 
 entry start
